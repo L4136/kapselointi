@@ -9,6 +9,7 @@ namespace kapselointi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Give a new floor number (1-5):");
         }
     }
 }
